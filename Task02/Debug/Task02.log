@@ -1,7 +1,13 @@
 ﻿  Main.c
-C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(50,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(66,7): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(67,10): warning C4047: =: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(58,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
-C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(68,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(80,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
-C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(117): warning C4715: convertToBinRecursion: значение возвращается не при всех путях выполнения
+C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(97,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(143,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+C:\Users\Евгений\OneDrive\C project\Task02\Task02\Main.c(192): warning C4715: convertToBinRecursion: значение возвращается не при всех путях выполнения
   Task02.vcxproj -> C:\Users\Евгений\OneDrive\C project\Task02\Debug\Task02.exe
